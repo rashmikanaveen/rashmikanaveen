@@ -2,7 +2,7 @@
 
 <p >
   <a href="https://www.linkedin.com/in/rashmika-naveen-9b21b32b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="![linkedin](https://github.com/user-attachments/assets/0284ba28-6fd1-4935-a5a2-124d471fdc97) " alt="LinkedIn" width="40" height="40"/>
+    <img src="https://github.com/rashmikanaveen/HTML_Works/issues/3#issue-2468933744" alt="LinkedIn" width="40" height="40"/>
 
 
 
