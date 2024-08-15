@@ -2,7 +2,7 @@
 
 <p >
   <a href="https://www.linkedin.com/in/rashmika-naveen-9b21b32b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://github.com/rashmikanaveen/HTML_Works/blob/ab3a7c37f9d923cf16fab73a14731f7dbdf1306f/icons/linkedin%20(1).png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://github.com/rashmikanaveen/HTML_Works/blob/ab3a7c37f9d923cf16fab73a14731f7dbdf1306f/icons/linkedin%20(1).png" alt="LinkedIn" width="40" height="40"/></a>
 
 
 
