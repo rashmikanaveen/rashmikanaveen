@@ -1,4 +1,18 @@
 🌐 Socials:<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rashmika-naveen-9b21b32b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://example.com/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="rashmikay.22@cse.mrt.ac.lk">
+    <img src="https://example.com/twitter.png" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://web.facebook.com/rashmika.naveen">
+    <img src="![email](https://github.com/user-attachments/assets/930c9ad4-a9fa-499e-9867-af928c2539ff)
+" alt="Facebook" width="40" height="40"/>
+  </a>
+</p>
+
 [![email](https://github.com/user-attachments/assets/930c9ad4-a9fa-499e-9867-af928c2539ff)](rashmikay.22@cse.mrt.ac.lk)
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/rashmika-naveen-9b21b32b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Facebook:** [My Facebook Profile](https://web.facebook.com/rashmika.naveen)
