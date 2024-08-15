@@ -8,7 +8,7 @@
     <img src="https://example.com/twitter.png" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://web.facebook.com/rashmika.naveen">
-    <img src="![email](https://github.com/user-attachments/assets/930c9ad4-a9fa-499e-9867-af928c2539ff)
+    <img src="https://www.flaticon.com/free-icon/facebook_2168281?term=social+media&page=1&position=4&origin=tag&related_id=2168281
 " alt="Facebook" width="1" height="1"/>
   </a>
 </p>
