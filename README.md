@@ -8,7 +8,7 @@
 
   
   <a href="https://web.facebook.com/rashmika.naveen">
-    <img src="![facebook](https://github.com/user-attachments/assets/feab3ce1-ef00-4ed1-a433-a69497e20750)" alt="Facebook" width="1" height="1"/>
+    <img src="https://www.iconfinder.com/icons/5282541/fb_social_media_facebook_facebook_logo_social_network_icon" alt="Facebook" width="1" height="1"/>
 
 
   </a>
