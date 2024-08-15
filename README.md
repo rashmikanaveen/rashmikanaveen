@@ -8,7 +8,7 @@
 
   
   <a href="https://web.facebook.com/rashmika.naveen">
-    <img src="https://github.com/rashmikanaveen/HTML_Works/blob/ab3a7c37f9d923cf16fab73a14731f7dbdf1306f/icons/facebook%20(1).png" alt="facebook" width="40" height="40"/>
+    <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" alt="facebook" width="40" height="40"/>
  
 
 
