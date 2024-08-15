@@ -9,7 +9,7 @@
   </a>
   <a href="https://web.facebook.com/rashmika.naveen">
     <img src="![email](https://github.com/user-attachments/assets/930c9ad4-a9fa-499e-9867-af928c2539ff)
-" alt="Facebook" width="40" height="40"/>
+" alt="Facebook" width="10" height="10"/>
   </a>
 </p>
 
