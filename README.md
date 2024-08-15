@@ -8,8 +8,8 @@
 
   
   <a href="https://web.facebook.com/rashmika.naveen">
-    <img src=![facebook](https://github.com/user-attachments/assets/feab3ce1-ef00-4ed1-a433-a69497e20750)
- alt="Instagram" width="40" height="40"/>
+    <img src="![facebook](https://github.com/user-attachments/assets/feab3ce1-ef00-4ed1-a433-a69497e20750)" alt="Instagram" width="40" height="40"/>
+ 
 
 
   </a>
