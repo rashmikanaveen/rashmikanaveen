@@ -2,13 +2,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rashmika-naveen-9b21b32b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://example.com/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img ![linkedin](https://github.com/user-attachments/assets/0284ba28-6fd1-4935-a5a2-124d471fdc97)" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="rashmikay.22@cse.mrt.ac.lk">
     <img src="https://github.com/user-attachments/assets/930c9ad4-a9fa-499e-9867-af928c2539ff" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://web.facebook.com/rashmika.naveen">
-    <img src=" " alt="Facebook" width="1" height="1"/>
+    <img src=" ![facebook](https://github.com/user-attachments/assets/d37d4032-ef64-4515-8129-e3f43de9de0c)
+" alt="Facebook" width="1" height="1"/>
 
   </a>
 </p>
