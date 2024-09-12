@@ -5,30 +5,14 @@
 </h1>
 
 
-
-🌐 Socials:<br>
-
-<p >
-  <a href="https://www.linkedin.com/in/rashmika-naveen-9b21b32b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-64.png" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;
-
-
-
-  
-  <a href="https://web.facebook.com/rashmika.naveen">
-    <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" alt="facebook" width="40" height="40"/>
- 
-
-
+<div align="center">
+  <a href="rashmikay.22@cse.mrt.ac.lk">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
-</p>
-
-
-<!--- 🌱 I’m currently learning CSE at the University of Moratuwa...
- 💞️ I’m looking to collaborae on ...
-- 📫 How to reach me ...--->
-
-<!---
-rashmikanaveen/rashmikanaveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href="https://www.linkedin.com/in/rashmika-naveen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://web.facebook.com/rashmika.naveen" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+</div>
