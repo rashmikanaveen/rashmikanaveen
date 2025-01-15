@@ -16,6 +16,3 @@
 </div>
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmikanaveen)](https://github.com/rashmikanaveen/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmikanaveen)](https://github.com/rashmikanaveen/github-readme-stats)
