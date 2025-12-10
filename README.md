@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;IoT+%26+Embedded+Systems+Engineer;Robotics+Enthusiast;Building+Tomorrow's+Technology" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;IoT+%26+Embedded+Systems+Enthusiast;Robotics+Enthusiast;Building+Tomorrow's+Technology" />
 </h3>
 
 <br/>
