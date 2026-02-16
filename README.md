@@ -38,24 +38,6 @@
 
 ---
 
-## Activity & Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmikanaveen&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmikanaveen&theme=radical" alt="GitHub Profile Summary" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rashmikanaveen&theme=radical" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rashmikanaveen&theme=radical" alt="Productive Time" />
-</div>
-
-<br/>
-
----
 
 ## Languages & Frameworks
 
