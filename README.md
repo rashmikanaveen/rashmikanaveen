@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=RASHMIKA%20NAVEEN&fontSize=70&color=0:667eea,100:764ba2&stroke=f093fb&strokeWidth=2" />
+  <h1>rashmika naveen</h1>
 </div>
 
 <h3 align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  <a href="https://www.rashmikanaveen.me/" target="_blank">
+  <a href="https://rashmika-naveen.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/rashmika-naveen/" target="_blank">
@@ -94,12 +94,5 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="700">
-</div>
-
-<br/>
 
 
